@@ -19,6 +19,6 @@ It is recommedned to use the code files in Google Colab, as Bayesian models take
 
 ### Acknowledgements
 
-* [Dr. Jonathan Hare](https://www.ecs.soton.ac.uk/people/jsh2) and [University of Southampton](https://www.southampton.ac.uk/) for this challenge. [University of Southampton](https://www.southampton.ac.uk/)
+* [Dr. Jonathan Hare](https://www.ecs.soton.ac.uk/people/jsh2) and [University of Southampton](https://www.southampton.ac.uk/) for this challenge.
 * [felixmcgregor](https://github.com/felixmcgregor) for the basic demo code. 
 * [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) for the GPU support.   
