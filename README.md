@@ -16,3 +16,9 @@ It is recommedned to use the code files in Google Colab, as Bayesian models take
 * logger.py file is for creating the CSV files for training and test accuracy results.
 * plotting.py file created by our group to plot the accuracy and loss results of the models.
 * Prior stabilization vs BNN.ipynb notebook provides results for MNIST data and CIFAR10 dataset with prior stabilization.ipynb provides results for CIFAR10 data
+
+### Acknowledgements
+
+* Dr Jonathan Hare and University of Southampton for this challenge.
+* felixmcgregor for the basic demo code.
+* Google Colab for the GPU support.
